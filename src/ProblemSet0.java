@@ -74,6 +74,7 @@ public class ProblemSet0 {
          *
          * Print a square of text to the console.
          */
+         System.out.println("Three.\tTwo.\tOne.\tGo!\n");
 
         /*
          * Exercise 7.
